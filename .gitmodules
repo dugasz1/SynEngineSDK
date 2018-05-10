@@ -1,0 +1,3 @@
+ [submodule "SynEngine"]
+	path = SynEngine
+	url = https://github.com/dugasz1/SynEngine.git
